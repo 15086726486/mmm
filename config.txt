@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "abd9caec2d940c0be4d6295c56c18c9c",
 # 模板消息idabd9caec2d940c0be4d6295c56c18c9c
-"template_id": "-_hGDcxsQN2W1U-i6OygBr1IeEMkKxgYy6A1GuoGeyc",
+"template_id": "hTQAofkVVMyrX-_LogC6G1_FwSZoHFO_hpszHHzHiXI",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["o8ky_6p9a5w2lTqbU5waDBnSYxSg","o8ky_6pcQAD4DzS2ySGLqS435MvU"],
 
@@ -15,7 +15,7 @@
 # 天行数据apikey
 "tian_api": "9579e5925f593994ad27713aa474b093",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
-"region": "番禺区",
+"region": "重庆市",
 # 生日1
 "birthday1": {"name": "小富", "birthday": "2001-01-25"},
 # 生日2
